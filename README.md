@@ -39,7 +39,7 @@
             alt="javascript" width="40" height="40" /> </a> </p>
 
 <p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=alok1304&show_icons=true&locale=en&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=alok1304&layout=compact"
         alt="alok1304" /></p>
 
 <p>&nbsp;<img align="center"
