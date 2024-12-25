@@ -6,7 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=alok1304&label=Profile%20views&color=0e75b6&style=flat" alt="alok1304" />
 </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 **Full Stack developer**
 
 - 📫 How to reach me **alokkumarjipura9973@gmail.com**
 
